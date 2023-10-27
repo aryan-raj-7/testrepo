@@ -1,4 +1,6 @@
- Perform analysis of findings and trends using statistical analysis and document process
+child to parent
+
+Perform analysis of findings and trends using statistical analysis and document process
  
  Responsible for building easy to use visualization and perform data analysis to generate meaningful business insights using complex datasets for global stakeholders. 
  
