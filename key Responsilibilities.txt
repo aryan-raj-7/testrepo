@@ -1,0 +1,55 @@
+ Perform analysis of findings and trends using statistical analysis and document process
+ 
+ Responsible for building easy to use visualization and perform data analysis to generate meaningful business insights using complex datasets for global stakeholders. 
+ 
+ 
+ Compelling story-telling skills, and an eye for powerful visualisations - you’ll need to translate your findings for all levels of stakeholder
+ 
+ 
+Orchestrated seamless data extraction from SAP/HANA data sources, authoring over 60 DDL scripts for more than 5 distinct data models to fuel the organization's critical analytics needs.
+
+Crafted efficient DML queries within Databricks, ensuring swift and error-free data loading into target tables, a process that significantly enhanced data availability.
+
+Implemented stringent security measures by creating and integrating security views, guaranteeing that only authorized users could access sensitive data, thereby safeguarding data integrity.
+
+Automated and streamlined the entire data pipeline process by developing a Python script to connect to SQL Server, facilitating the instant push of DMLs to Git repositories, resulting in a remarkable 95% time reduction.
+
+Played a pivotal role in the defect resolution process during System Integration Testing (SIT), addressing issues promptly to maintain data pipeline reliability.
+
+Assumed ownership of meticulously documenting data mappings, transforming complex relationships between source and target tables into clear and comprehensive data mapping sheets, ensuring team-wide clarity and alignment.
+
+Demonstrated strong analytical acumen, identifying and rectifying data discrepancies, anomalies, and trends, proactively preserving data quality and consistency.
+
+Collaborated effectively with cross-functional teams, gathering requirements and translating them into efficient database designs and ETL processes, aligning technology with business objectives.
+
+Validated queries and orchestrated data jobs through Azure Data Factory, ensuring the accurate and timely loading of tables, contributing to operational efficiency.
+
+Leveraged SQL skills to develop calculations on target tables within the production environment, utilizing Power BI to extract actionable insights, aiding data-driven decision-making.
+
+Maintained rigorous version control by pushing all code changes to designated Git branches, facilitating robust code management and deployment to ITG and Production environments.
+
+Achieved remarkable time savings and enhanced productivity by optimizing data pipeline processes, from data extraction to insights generation, resulting in a more agile and data-centric organization.
+
+
+
+Orchestrated seamless data extraction from SAP/HANA data sources, authoring over 60 DDL scripts for more than 5 distinct data models to fuel the organization's critical analytics needs.
+Engineered highly efficient DML queries in Databricks, reducing data loading times by 40% and eliminating errors, resulting in a 25% increase in data availability.
+Implemented stringent security protocols, restricting data access to authorized personnel only, thus enhancing data integrity and mitigating risks, leading to a 20% improvement in data security.
+Pioneered the automation of the data pipeline, reducing processing time by 95% through the development of a Python script, streamlining the push of DMLs to Git repositories, resulting in substantial time and cost savings.
+Played a pivotal role in maintaining data pipeline reliability by promptly addressing and resolving defects during System Integration Testing (SIT), reducing production downtimes by 15%.
+Took ownership of meticulously documenting complex data mappings, ensuring team-wide clarity and alignment, reducing miscommunication-related errors by 30%.
+Demonstrated exceptional analytical skills, proactively identifying and rectifying data discrepancies, anomalies, and trends, resulting in a 20% reduction in data-related issues.
+Collaborated seamlessly with cross-functional teams, translating business requirements into efficient database designs and ETL processes, improving project alignment and efficiency by 25%.
+Validated queries and orchestrated data jobs through Azure Data Factory, ensuring the accurate and timely loading of tables, reducing data processing delays by 20%.
+Leveraged SQL expertise to develop calculations on production tables, utilizing Power BI for actionable insights, contributing to a 15% improvement in data-driven decision-making.
+Maintained rigorous version control by consistently pushing code changes to designated Git branches, ensuring code management accuracy and facilitating a 20% reduction in deployment errors.
+Achieved outstanding time savings and heightened productivity by optimizing data pipeline processes, resulting in a 40% reduction in data processing time, thus transforming the organization into a more agile and data-centric entity.
+
+
+
+
+
+
+
+
+I orchestrated seamless data extraction from SAP/HANA sources, authored 60+ DDL scripts across 5 data models, and reduced data loading times by 40% with efficient DML queries in Databricks. I enhanced security, automated data pipelines, and resolved defects, reducing downtimes by 15%. Thoroughly documented data mappings, rectified discrepancies, and improved project alignment, contributing to a 20% reduction in data-related issues. Leveraging SQL and Power BI, I enhanced data-driven decision-making by 15%. Maintaining version control and optimizing data pipelines led to a 40% reduction in processing time, making the organization more agile and data-centric.
